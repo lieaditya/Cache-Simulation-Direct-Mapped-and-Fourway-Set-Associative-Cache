@@ -1,12 +1,4 @@
-# Gruppe 165 - Projektbericht
-
-## Mitgliedsbeitrag
-- **Lie Aditya Bryan**: cache_module.cpp, four_way_lru_cache.cpp, matrix_multiplication.csv
-- **Jovan Rio Tjandra**: simulation.cpp, direct_mapped_cache.cpp, Projektbericht
-- **Aaron Rafael Thamin**: main.c, main_memory.cpp, Makefile, Vortragsfolien
-
-## Aufgabenstellung:
-Untersuchen die Unterscheide zwischen einem direkt-abgebildeten und 4-fach-assoziativen Cache.
+# Untersuchen die Unterscheide zwischen einem direkt-abgebildeten und 4-fach-assoziativen Cache.
 
 ## Theoretischer Teil - Übliche Größen und Latenzen
 
