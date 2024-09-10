@@ -1,4 +1,7 @@
-# Untersuchen die Unterscheide zwischen einem direkt-abgebildeten und 4-fach-assoziativen Cache.
+# Cache Simulation with SystemC: Direct-Mapped and Fourway Set Associative
+
+## Objective
+Untersuchen die Unterscheide zwischen einem direkt-abgebildeten und 4-fach-assoziativen Cache.
 
 ## Theoretischer Teil - Übliche Größen und Latenzen
 
